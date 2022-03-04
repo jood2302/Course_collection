@@ -133,7 +133,7 @@
 
 ## Спринт 7. Бот ассистент. ##
 
-[Бот для Telegram с минимальным функционалом.](https://github.com/jood2302/api_sp1_bot "https://github.com/jood2302/api_sp1_bot")
+[Бот для Telegram с минимальным функционалом.](https://github.com/jood2302/homework_bot "https://github.com/jood2302/homework_bot")
 
 
 Задачи проекта:
